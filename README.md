@@ -1,0 +1,4 @@
+algorithm-
+==========
+
+C language algorithm 
